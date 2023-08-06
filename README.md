@@ -1,2 +1,2 @@
 # Soft Heap Implementations
-This repository contains several implementations of a modified version of the soft heap data structure described in [Soft Heaps Simplified](https://epubs.siam.org/doi/10.1137/120880185). This simple modification limits the total number corrupted of items to be strictly less than or equal to $\varepsilon n$. You can read more about this modification here --> [LINK COMING SOON].
+This repository contains several implementations of a modified version of the soft heap data structure described in [Soft Heaps Simplified](https://epubs.siam.org/doi/10.1137/120880185). This simple modification limits the total number corrupted of items to be strictly less than or equal to $\varepsilon n$. A complete account of this modification will be provided soon.
